@@ -60,7 +60,7 @@ public class CourseController {
     /*@GetMapping("/health")
     public String healthCheck() {
         return "UP";
-    } */
+    } vxv */
 
     @GetMapping("/welcome")
     public String greetings() {
